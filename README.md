@@ -1,4 +1,4 @@
-# IT255-ProjektniZadatak
+# ngClassifieds
 
 To run the app, first install the dependencies with NPM.
 
